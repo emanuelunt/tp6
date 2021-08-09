@@ -1,0 +1,6 @@
+D:\Proyecto2021\TP6\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\Proyecto2021\TP6\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+D:\Proyecto2021\TP6\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\Proyecto2021\TP6\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\Proyecto2021\TP6\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\Proyecto2021\TP6\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
